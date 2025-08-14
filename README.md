@@ -1,4 +1,4 @@
-# 🖤 ICSF TOOLS - 1
+# ✅ ICSF TOOLS - 1
 
 ![Tools](https://i.postimg.cc/hjhNpqkc/Screenshot-20250814-084809-Termux.jpg)
 
@@ -6,7 +6,7 @@ Welcome to **ICSF TOOLS**, the ultimate toolkit for Termux/Linux users.
 Follow the steps below to install and run.
 
 ---
-[ICSF Tools - টার্মাক্স ইনস্টল এবং রান করার গাইড](https://somser-sa.page.gd/icsf_install_গাইডলাইন.html)
+[ICSF Tools 1- টার্মাক্সে ইনস্টল এবং রান করার গাইড বা error fix](https://somser-sa.page.gd/icsf_install_গাইডলাইন.html)
 
 ## ⚡ Installation (Termux/Linux)
 
