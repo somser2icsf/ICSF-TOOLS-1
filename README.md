@@ -6,7 +6,7 @@ Welcome to **ICSF TOOLS**, the ultimate toolkit for Termux/Linux users.
 Follow the steps below to install and run.
 
 ---
-
+[ICSF Tools 1- টার্মাক্সে ইনস্টল এবং রান করার গাইড বা error fix](https://somser-sa.page.gd/icsf_install_গাইডলাইন.html)
 
 ## ⚡ Installation (Termux/Linux)
 
@@ -22,7 +22,4 @@ pkg install curl -y
 pip install requests phonenumbers colorama
 git clone https://github.com/somser2icsf/ICSF-TOOLS-1
 cd ICSF-TOOLS-1
-python icsf_tools1.py
-
----
-[ICSF Tools 1- টার্মাক্সে ইনস্টল এবং রান করার গাইড বা error fix](https://somser-sa.page.gd/icsf_install_গাইডলাইন.html)
+python icsf_tools1.py 
